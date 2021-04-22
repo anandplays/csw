@@ -6,8 +6,10 @@ https://maven.apache.org/download.cgi
 
 Clone the repo using git clone command
 
-Please execute the below commands 
-cd json-xmlconverter
+Please execute the below commands
+
+cd csw/json-xmlconverter
+
 mvn clean install
 
 Built jar file can be found inside the target folder
